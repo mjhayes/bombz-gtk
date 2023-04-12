@@ -1,0 +1,19 @@
+bombz-gtk - http://code.google.com/p/bombz-gtk/
+
+* INSTALLATION *
+Installation is pretty standard.  The following should suffice for most
+users (typed into the command-line):
+
+% ./configure
+% make
+% make install
+
+For a more in-depth guide to installing GNU sources, please read the
+INSTALL file contained within this folder.
+
+We also have an installation article on our Wiki (go to the website listed
+at the top of this file).
+
+* BUGS *
+I would REALLY appreciate if any bugs encountered could be described to
+me at the bombz website (URL should be on the first line of this file).
